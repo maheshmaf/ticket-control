@@ -1,0 +1,17 @@
+{
+  "name": "theater-ticket-control-panel",
+  "version": "2.0.0",
+  "description": "A simple theater ticket control panel.",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.0",
+    "hapi-auth-basic": "^5.0.0",
+    "moment": "^2.29.1",
+    "rest-hapi": "latest"
+  }
+}

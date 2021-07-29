@@ -1,0 +1,27 @@
+{ 
+    "_id" : ObjectId("610260f89eca8b34886290fa"), 
+    "performanceTitle" : "DOTA2", 
+    "performanceTime" : ISODate("2021-07-28T22:36:03.685+0000"), 
+    "customerName" : "Mahesh", 
+    "ticketPrice" : NumberInt(5000), 
+    "createdAt" : ISODate("2021-07-29T08:04:08.472+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610260f89eca8b34886290fb"), 
+    "performanceTitle" : "DOTA2", 
+    "performanceTime" : ISODate("2021-07-25T22:36:03.685+0000"), 
+    "customerName" : "Suresh", 
+    "ticketPrice" : NumberInt(3000), 
+    "createdAt" : ISODate("2021-07-29T08:04:08.472+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610260f89eca8b34886290fc"), 
+    "performanceTitle" : "DOTA2", 
+    "performanceTime" : ISODate("2021-09-22T22:36:03.685+0000"), 
+    "customerName" : "Danny", 
+    "ticketPrice" : NumberInt(6300), 
+    "createdAt" : ISODate("2021-07-29T08:04:08.472+0000"), 
+    "__v" : NumberInt(0)
+}
